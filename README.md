@@ -4,7 +4,7 @@
 
 1. Fork a repo
 2. Clone a repo
-3. Push to different remote repos
+
 
 ##Forking a GitHub Repository
 Forking a GitHub repository is just a way to create your own copy of it. We do this all the time while using Learn. Every time you fork a lab, GitHub creates a copy that you can use as a sandbox to play around, all while maintaining a canonical repo where the original lab remains intact. In other words, forking creates another remote that allows you to work in your own world without messing with the core learn-co-students content.
@@ -43,4 +43,4 @@ Now we want to get our forked copy of the repository on our local machine. This 
 
 	This will create a local copy of our forked GitHub repository.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/forks-and-clones-readme' title='Forks and Clones'>Forks and Clones</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/forks-and-clones-readme'>Git Forks and Clones</a> on Learn.co and start learning to code for free.</p>
